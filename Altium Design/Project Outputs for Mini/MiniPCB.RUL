@@ -1,0 +1,10 @@
+DRC Rules Export File for PCB: C:\Jill\Miniscope Redesign\Miniscope Redesign Rev 0\PCB_Project\MiniPCB.PcbDoc
+RuleKind=MinimumAnnularRing|RuleName=PWR Annular Ring|Scope=Board|Minimum=7.00
+RuleKind=MinimumAnnularRing|RuleName=Layer Annular Ring|Scope=Board|Minimum=7.00
+RuleKind=Clearance|RuleName=Polygon Pour Clearance|Scope=Board|Minimum=10.00
+RuleKind=Clearance|RuleName=Clearance_1|Scope=Board|Minimum=0.00
+RuleKind=MinimumAnnularRing|RuleName=MinimumAnnularRing|Scope=Board|Minimum=5.00
+RuleKind=SolderMaskExpansion|RuleName=SolderMaskExpansion|Scope=Board|Minimum=1.00
+RuleKind=Width|RuleName=Width|Scope=Board|Minimum=5.00
+RuleKind=Clearance|RuleName=Clearance|Scope=Board|Minimum=5.00
+RuleKind=ShortCircuit|RuleName=ShortCircuit|Scope=Board|Allowed=0
