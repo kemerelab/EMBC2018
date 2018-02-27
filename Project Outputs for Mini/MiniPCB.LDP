@@ -1,6 +1,0 @@
-Layer Pairs Export File for PCB: C:\Jill\Miniscope Redesign\Miniscope Redesign Rev 0\PCB_Project\MiniPCB.PcbDoc
-LayersSetName=Top_Bot_Thru_Holes|DrillFile=minipcb.txt|DrillLayers=gtl,g1,g2,gbl
-LayersSetName=Top_GND_Blind_Vias|DrillFile=minipcb.tx1|DrillLayers=gtl,g1
-LayersSetName=Top_PWR_Blind_Vias|DrillFile=minipcb.tx2|DrillLayers=gtl,g1,g2
-LayersSetName=GND_Bot_Blind_Vias|DrillFile=minipcb.tx3|DrillLayers=g1,g2,gbl
-LayersSetName=PWR_Bot_Blind_Vias|DrillFile=minipcb.tx4|DrillLayers=g2,gbl
